@@ -12,10 +12,17 @@
 
 body {
     margin-top: 100px;
+    background-color: rgb(152, 167, 167);
 }
 
 h1 {
     text-align: center;
+}
+
+.counter {
+    border: 1px black;
+    margin-bottom: 10px;
+    font-weight: bold;
 }
 
 input {
@@ -31,4 +38,7 @@ ul li {
     border: 1px solid grey;
     list-style: none;
     padding: 5px;
+    background-color: rgb(255, 255, 255);
 }
+
+
